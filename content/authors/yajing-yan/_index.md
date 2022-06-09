@@ -22,6 +22,6 @@ education:
 email: yajing.yan@univ-smb.fr
 superuser: true
 user_groups:
-  - Project_Coordinator
+  - Researchers
 ---
 Yajing Yan is an Associate Professor at the LISTIC Lab.
