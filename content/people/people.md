@@ -16,11 +16,11 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Project coordinator
-    - Principal investigator
-    - Ph.D students
-    - Geophysical experts
-    - Other experts
+    - Project_Coordinator
+    - Principal_Investigator
+    - PhD_Student
+    - Geophysical_Experts
+    - Other_Experts
 design:
   show_interests: false
   show_role: true
