@@ -1,7 +1,7 @@
 ---
 title: Yajing Yan
 role: Associate Professor of Remote Sensing for Earth Observation
-avatar_filename: avatar
+avatar_filename: yan_01.jpg
 bio: My research interests include Interferometry SAR, multi-temporal analysis,
   data inversion, data assimilation.
 social: []
@@ -22,6 +22,6 @@ education:
 email: yajing.yan@univ-smb.fr
 superuser: false
 user_groups:
-  - Project_Coordinator
+  - Project-Coordinator
 ---
 Yajing Yan is an Associate Professor at the LISTIC Lab.
