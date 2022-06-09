@@ -3,9 +3,7 @@ widget: hero
 widget_id: welcome page
 headless: true
 weight: 10
-title: |
-  Wowchemy  
-  Research Group
+title: ANR REPED SARIX
 hero_media: welcome.jpg
 design:
   columns: "1"
