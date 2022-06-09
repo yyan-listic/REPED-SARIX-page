@@ -1,6 +1,6 @@
 ---
 title: Antoine Rabatel
-role: Physicist
+role: Physicist CNAP
 avatar_filename: avatar
 social: []
 organizations:
