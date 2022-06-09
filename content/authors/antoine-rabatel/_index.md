@@ -1,6 +1,6 @@
 ---
 title: Antoine Rabatel
-role: Physicist CNAP
+role: Physicist CNAP on Glaciology
 avatar_filename: avatar
 social: []
 organizations:
