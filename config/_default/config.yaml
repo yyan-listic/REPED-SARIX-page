@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: ANR REPED SARIX # Website name
+title: ANR REPED-SARIX # Website name
 baseURL: 'https://anr-repedsarix.netlify.app//' # Website URL
 
 ############################
