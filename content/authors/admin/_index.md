@@ -14,7 +14,7 @@ education:
 email: guillaume.ginolhac@univ-smb.fr
 superuser: true
 user_groups:
-  - Principal_investigator
+  - Principal_Investigator
 highlight_name: false
 ---
 Guillaume Ginolhac is
