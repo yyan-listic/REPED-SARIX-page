@@ -20,8 +20,8 @@ education:
       institution: Université Lille 1
       year: 2005
 email: yajing.yan@univ-smb.fr
-superuser: true
+superuser: false
 user_groups:
-  - Researchers
+  - Project_Coordinator
 ---
 Yajing Yan is an Associate Professor at the LISTIC Lab.
