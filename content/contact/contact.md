@@ -18,20 +18,20 @@ content:
   email: yajing.yan@univ-smb.fr
   phone: +33(0) 4 50 09 65 36
   address:
-    street: 5 chemin de bellevue
+    street: 5 chemin de Bellevue, CS80439,
     city: Annecy
-    region: Auvergne-Rhône-Alpes
+    region: 
     postcode: '74944'
     country: France
     country_code: FR
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  directions: Enter Building "Polytech Annecy-Chambéry" and take the stairs to Office 206 on Floor 2
+  #office_hours:
+    #- 'Monday 10:00 to 13:00'
+    #- 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
