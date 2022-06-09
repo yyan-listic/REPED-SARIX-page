@@ -25,8 +25,8 @@ content:
     country: France
     country_code: FR
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '45.919665'
+    longitude: '6.158151'
   directions: Enter Building "Polytech Annecy-Chambéry" and take the stairs to Office 206 on Floor 2
   #office_hours:
     #- 'Monday 10:00 to 13:00'
