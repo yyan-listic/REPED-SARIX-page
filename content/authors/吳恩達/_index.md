@@ -14,7 +14,6 @@ education:
   courses: []
 email: alexandre.benoit@univ-smb.fr
 user_groups:
-  - Researchers
-  - Visitors
+  - Principal_Investigator
 ---
 Alexandre Benoit is a professor
