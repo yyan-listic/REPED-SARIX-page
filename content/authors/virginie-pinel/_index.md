@@ -1,6 +1,6 @@
 ---
 title: Virginie Pinel
-role: Researcher IRD
+role: Researcher IRD on Volcanology
 avatar_filename: avatar
 social: []
 organizations:
