@@ -12,7 +12,7 @@ organizations:
 education:
   courses: []
 email: guillaume.ginolhac@univ-smb.fr
-superuser: true
+superuser: false
 user_groups:
   - Principal-Investigator
 highlight_name: false
