@@ -1,5 +1,5 @@
 ---
-title: on the road
+title: Kick-off Meeting
 date: 2020-12-02
 image:
   focal_point: top
