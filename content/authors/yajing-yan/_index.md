@@ -20,7 +20,7 @@ education:
       institution: Université Lille 1
       year: 2005
 email: yajing.yan@univ-smb.fr
-superuser: false
+superuser: true
 user_groups:
   - Project-Coordinator
 ---
