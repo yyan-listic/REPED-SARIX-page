@@ -17,4 +17,4 @@ user_groups:
   - Principal-Investigator
 highlight_name: false
 ---
-Guillaume Ginolhac is
+Guillaume Ginolhac is a professor at the LISTIC lab. 

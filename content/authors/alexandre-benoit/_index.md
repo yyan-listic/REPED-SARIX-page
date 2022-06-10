@@ -16,4 +16,4 @@ email: alexandre.benoit@univ-smb.fr
 user_groups:
   - Principal-Investigator
 ---
-Alexandre Benoit is a professor
+Alexandre Benoit is a professor at the LISTIC lab.
