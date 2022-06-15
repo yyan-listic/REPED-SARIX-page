@@ -11,10 +11,10 @@ organizations:
   - url: https://www.univ-smb.fr/listic/
 education:
   courses:
-    - course: "Ph.D "
+    - course: "Ph.D"
       institution: Gipsa-Lab, Grenoble INP, Grenoble, France
       year: 2007
-    - course: "Master "
+    - course: "Master"
       institution: Grenoble INP, Grenoble, France
       year: 2003
     - course: "Engineering"
