@@ -11,13 +11,13 @@ organizations:
 education:
   courses:
     - course: "Ph.D "
-      institution: LISTIC, Université Savoie Mont-Blanc
+      institution: LISTIC/ISTerre, Université Savoie Mont-Blanc, Annecy, France
       year: ""
     - course: "Master "
-      institution: Université Pierre & Marie Curie
+      institution: Université Pierre & Marie Curie, Paris, France
       year: ""
     - course: BSc
-      institution: Université Lille 1
+      institution: Université Lille 1, Lille, France
       year: 2005
 email: yajing.yan@univ-smb.fr
 superuser: true
