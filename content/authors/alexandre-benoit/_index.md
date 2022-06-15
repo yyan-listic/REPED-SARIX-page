@@ -3,8 +3,6 @@ organizations:
   - name: LISTIC, Université Savoie Mont-Blanc
   url: https://www.univ-smb.fr/listic/
 superuser: false
-authors:
-  - Alexandre Benoit
 title: Alexandre Benoit
 role: Professor of Deep Learning
 bio: "My research interests include image and video processing, deep learning"
