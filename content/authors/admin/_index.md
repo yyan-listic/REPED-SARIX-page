@@ -29,4 +29,4 @@ user_groups:
 ---
 Yajing Yan is an Associate Professor at the LISTIC Lab. She is the coordinator of the REPED-SARIX project. 
 
-See her institutional page: https://www.univ-smb.fr/listic/pages-fr/yajing-yan-fr/
+See her institutional page: https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/yajing-yan-fr/
