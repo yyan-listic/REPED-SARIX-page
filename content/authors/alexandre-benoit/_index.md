@@ -3,7 +3,8 @@ title: Alexandre Benoit
 role: Professor of Deep Learning
 bio: "My research interests include image and video processing, deep learning"
 interests:
-  - Image and video processing, deep learning
+  - Image and video processing
+  - Deep learning
 social: []
 organizations:
   - name: LISTIC, Université Savoie Mont-Blanc
