@@ -10,10 +10,11 @@ Participants: Y. Yan, A. Benoit, G. Ginolhac, N. Méger, E. Trouvé, A. Atto, L.
 
 10h00 - 12h00: Scientific part
   - General presentation of the project
-  - Presentation WP1: A New Phase Linking Algorithm for Multi-temporal InSAR based on the Maximum Likelihood Estimator
-  - Presentation WP2: Geophysical model inversion by neural networks: applications to Alpin glaciers
+  - Presentation WP1: A New Phase Linking Algorithm for Multi-temporal InSAR based on the Maximum Likelihood Estimator (H. Vu)
+  - Presentation WP2: Geophysical model inversion by neural networks: applications to Alpin glaciers (L. Lopez-Uroz)
 
 14h00 - 16h00: Administrative part
-  - Organisation
-  - Ph.D theses
+  - Team organisation
+  - Ph.D theses (content, recruitement)
   - Website
+  - Dissemination (workshops, ...)
