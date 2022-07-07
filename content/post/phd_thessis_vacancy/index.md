@@ -26,7 +26,7 @@ text-align: justify}
 
 The systematic acquisition of and free access to Sentinel-1 A/B Synthetic Aperture Radar (SAR) images covering Europe every 6 days (every 12 days elsewhere) provide scientists with both opportunities and challenges for operational monitoring of Earth deformation by SAR image time series. Actually, the displacement estimation with SAR image time series has been well studied with the development of numerous multi-temporal Interferometry SAR (InSAR) methods, such as Small BAseline Subset, Permanent Scatterer Interferometry, SqueeSAR, Phase Linking methods, Multi-link InSAR, CAESAR, Least-Square estimator and EMI [1-4]. However, incremental methodological development still seems necessary in order to reply to the operational requirement, that is, the processing should be efficient and robust and the results should be reliable. 
 
-    
+  <ul>  
     <li> Displacement times series estimation 
 
 Thanks to the aforementioned multi-temporal InSAR methods, the accuracy of the displacement velocity estimation has been revolutionized to millimeters per year. However, these methods are mainly retrospective analysis tools and do not allow efficient gradual integration of new SAR images that arrive over time and it is necessary to restart part of or the whole displacement estimation processing chain, which would be prohibitively expensive in practice and does not answer the need for operational monitoring. In particular, the computational cost is significant when dealing with non-Gaussian data [5] in case of high resolution SAR data. It is thus crucial to elaborate advanced recursive multi-temporal InSAR methods allowing for efficient gradual integration of new arriving SAR images. Some algorithms have already been developed in the literature, but they do not consider the non gaussianity of the data and their inherent structure [6,7]. 
@@ -44,7 +44,7 @@ The second objective of this Ph.D consists of imputing missing data in displacem
 We consider the ''Piton de la Fournaise'' and Merapi volcano test sites as proving ground for the developed approach in this Ph.D thesis. Both descending and ascending Sentinel-1 A/B acquisitions are available. GPS measurements from permanent GNSS stations are also available for results comparison and validation.
 
 </li>
-
+</ul>
 
 <strong>  References: </strong> 
 
