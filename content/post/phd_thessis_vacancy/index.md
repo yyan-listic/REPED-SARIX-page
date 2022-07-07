@@ -9,20 +9,21 @@ text-align: justify}
 
 <strong>  Recursive learning for incomplete SAR displacement time series for Earth deformation observation </strong>
 
+<ul>
 Institutions: LISTIC, Université Savoie Mont-Blanc, L2S, Université Paris Saclay
 
-Supervisors: 
+<li> Supervisors: 
   - M. Guillaume Ginolhac, guillaume.ginolhac@univ-smb.fr (04 50 09 65 83), 
   - Mme Yajing Yan, yajing.yan@univ-smb.fr (04 50 09 65 36), 
   - M. Nabil El Korso, elkorso.nabil.mohammed@gmail.com (01 40 97 41 39) 
+</li>
+<li> Beginning date: October 2022 </li>
 
-Beginning date: October 2022
+<li> Profile of candidate: The Ph.D candidate should have good skills in mathematics/statistics and/or signal/image processing. Knowledge in SAR is appreciated.</li>
 
-Profile of candidate: The Ph.D candidate should have good skills in mathematics/statistics and/or signal/image processing. Knowledge in SAR is appreciated.
+<li> Keywords: SAR interferometry, robust statistics, recursive estimation, missing data imputation, time series </li>
 
-Keywords: SAR interferometry, robust statistics, recursive estimation, missing data imputation, time series
-
-Ph.D. subject description: 
+<li> Ph.D. subject description: 
 
 The systematic acquisition of and free access to Sentinel-1 A/B Synthetic Aperture Radar (SAR) images covering Europe every 6 days (every 12 days elsewhere) provide scientists with both opportunities and challenges for operational monitoring of Earth deformation by SAR image time series. Actually, the displacement estimation with SAR image time series has been well studied with the development of numerous multi-temporal Interferometry SAR (InSAR) methods, such as Small BAseline Subset, Permanent Scatterer Interferometry, SqueeSAR, Phase Linking methods, Multi-link InSAR, CAESAR, Least-Square estimator and EMI [1-4]. However, incremental methodological development still seems necessary in order to reply to the operational requirement, that is, the processing should be efficient and robust and the results should be reliable. 
 
@@ -45,8 +46,10 @@ We consider the ''Piton de la Fournaise'' and Merapi volcano test sites as provi
 
 </li>
 </ol>
+</li>
+</ul>
 
-References :
+ References :
 
 <ul>
 <li> [1] A. M. Guarnieri and S. Tebaldini, (2008). On the exploitation of target statistics for sar interferometry applications. IEEE Transactions on Geoscience & Remote Sensing, 46(11) :3436–3443. </li>
