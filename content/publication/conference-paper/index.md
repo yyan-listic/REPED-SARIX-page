@@ -35,13 +35,13 @@ links:
   - name: Custom Link
     url: https://ieeexplore.ieee.org/document/9884916
 url_pdf: https://hal.archives-ouvertes.fr/hal-03761316/document
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
