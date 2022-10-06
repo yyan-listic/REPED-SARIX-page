@@ -1,13 +1,16 @@
 ---
-title: 'An example conference paper'
+title: 'A New Phase Linking Algorithm for Multi-temporal InSAR based on the Maximum Likelihood Estimator'
 authors:
+  - Phan Viet Hoa Vu
+  - Frédérique Brigui
+  - Arnaud Breloy
   - admin
-  - Robert Ford
+  - Guillaume Ginolhac
 date: '2013-07-01T00:00:00Z'
-doi: ''
+doi: '10.1109/IGARSS46834.2022.9884916'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-28-09T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +19,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *2022 IEEE International Geoscience and Remote Sensing Symposium*
+publication_short: In *IGARSS2022*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents a new algorithm for improving the estimation of interferometric SAR (InSAR) phases in the context of time series and phase linking approach. Based on maximum likelihood estimator of a multivariate Gaussian model, the estimation of the InSAR phases is solved using a Block Coordinate Descent algorithm. Compared to the state-of-the-art approaches, the main improvement lies on the joint estimation of the covariance matrix and the InSAR phases instead of using a plug-in coherence estimate obtained from the sample covariance of the data or the modeling of the temporal decorrelation of the target under observation. Results of synthetic simulations confirm the improvement brought by the proposed estimator.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
   - Source Themes
@@ -30,8 +33,8 @@ featured: true
 
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+    url: https://ieeexplore.ieee.org/document/9884916
+url_pdf: https://hal.archives-ouvertes.fr/hal-03761316/document
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
