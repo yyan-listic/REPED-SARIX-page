@@ -2,7 +2,7 @@
 title: Yajing Yan
 role: Associate Professor of Remote Sensing for Earth Observation
 bio: My research interests include Interferometry SAR, multi-temporal analysis,
-  data inversion, data assimilation.
+  data inversion, data assimilation and machine learning.
 interests:
   - SAR Interferometry
   - Multi-temporal analysis
@@ -14,7 +14,7 @@ organizations:
 education:
   courses:
     - course: "Ph.D"
-      institution: LISTIC/ISTerre, Université Savoie Mont-Blanc, Annecy, France
+      institution: LISTIC/ISTerre, Université Savoie Mont Blanc, Annecy, France
       year: 2011
     - course: "Master"
       institution: Université Pierre & Marie Curie, Paris, France
