@@ -1,5 +1,5 @@
 ---
-title: Kick-off Meeting
+title: Annual Meeting
 date: 2020-12-02
 image:
   focal_point: top
