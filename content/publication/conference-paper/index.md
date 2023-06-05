@@ -6,7 +6,7 @@ authors:
   - Arnaud Breloy
   - admin
   - Guillaume Ginolhac
-date: '2013-07-01T00:00:00Z'
+date: '2022-07-01T00:00:00Z'
 doi: '10.1109/IGARSS46834.2022.9884916'
 
 # Schedule page publish date (NOT publication's date).
