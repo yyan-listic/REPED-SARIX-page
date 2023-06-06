@@ -1,6 +1,6 @@
 ---
 title: Annual Meeting
-date: 2020-12-02
+date: 2023-06-22
 image:
   focal_point: top
 ---
