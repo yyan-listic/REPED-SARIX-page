@@ -23,9 +23,6 @@ publication_types: ['1']
 publication: In *2023 IEEE International Geoscience and Remote Sensing Symposium*
 publication_short: In *IGARSS2023*
 
-abstract: This paper proposes an algorithm for phase differences estimation in multi-temporal InSAR. The proposed approach is based on covariance fitting estimation and the majorization-minimization algorithm. Experiments with Sentinel-1 images of Mexico City demonstrate that the proposed approach compares favorably to the state-of-the-art phase linking (i.e., maximum likelihood-based approaches) when the sample support is low (i.e., when the number of pixels in the multi-look window cannot scale with the number of SAR images). Hence, the proposed approach can improve the spatial resolution of phase difference estimation in case of large SAR image time
-series.
-
 # Summary. An optional shortened abstract.
 summary: 
 
