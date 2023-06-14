@@ -25,9 +25,6 @@ publication_types: ['2']
 publication: 'In *IEEE Transactions in Geosciences and Remote Sensing*'
 publication_short: 'In *TGRS*'
 
-abstract:
-'phase linking'
-
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
