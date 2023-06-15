@@ -21,8 +21,8 @@ publishDate: '2022-28-09T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In **20th International Conference on Content-based Multimedia Indexing **
-publication_short: In **CBMI2023**
+publication: **20th International Conference on Content-based Multimedia Indexing**
+publication_short:  **CBMI2023**
 
 abstract: 
 

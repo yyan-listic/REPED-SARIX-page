@@ -6,9 +6,6 @@ authors:
   - 'Frédéric Brigui'
   - admin
   - 'Guillaume Ginolhac'
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 date: '2023-09-01T00:00:00Z'
 doi: ''
 
@@ -22,11 +19,11 @@ publishDate: '2023-06-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *IEEE Transactions in Geosciences and Remote Sensing*'
-publication_short: 'In *TGRS*'
+publication: **IEEE Transactions in Geosciences and Remote Sensing**
+publication_short:  **TGRS**
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
   - Source Themes

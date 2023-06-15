@@ -1,5 +1,4 @@
 ---
-
 title: 'Covariance fitting based InSAR Phase Linking'
 authors:
   - Phan Viet Hoa Vu
@@ -7,11 +6,11 @@ authors:
   - Frédérique Brigui
   - admin
   - Guillaume Ginolhac
-date: '2023-07-01T00:00:00Z'
+date: '2023-06-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-14-06T00:00:00Z'
+publishDate: '2023-06-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,8 +19,8 @@ publishDate: '2023-14-06T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 IEEE International Geoscience and Remote Sensing Symposium*
-publication_short: In *IGARSS2023*
+publication: **2023 IEEE International Geoscience and Remote Sensing Symposium**
+publication_short:  **IGARSS2023**
 
 # Summary. An optional shortened abstract.
 summary: 
