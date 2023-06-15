@@ -19,8 +19,8 @@ publishDate: '2023-06-14T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: **2023 IEEE International Geoscience and Remote Sensing Symposium**
-publication_short:  **IGARSS2023**
+publication: '**2023 IEEE International Geoscience and Remote Sensing Symposium**'
+publication_short:  '**IGARSS2023**'
 
 # Summary. An optional shortened abstract.
 summary: 
