@@ -19,8 +19,8 @@ publishDate: '2022-28-09T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: **2022 IEEE International Geoscience and Remote Sensing Symposium**
-publication_short: **IGARSS2022**
+publication: '**2022 IEEE International Geoscience and Remote Sensing Symposium**'
+publication_short: '**IGARSS2022**'
 
 abstract: This paper presents a new algorithm for improving the estimation of interferometric SAR (InSAR) phases in the context of time series and phase linking approach. Based on maximum likelihood estimator of a multivariate Gaussian model, the estimation of the InSAR phases is solved using a Block Coordinate Descent algorithm. Compared to the state-of-the-art approaches, the main improvement lies on the joint estimation of the covariance matrix and the InSAR phases instead of using a plug-in coherence estimate obtained from the sample covariance of the data or the modeling of the temporal decorrelation of the target under observation. Results of synthetic simulations confirm the improvement brought by the proposed estimator.
 

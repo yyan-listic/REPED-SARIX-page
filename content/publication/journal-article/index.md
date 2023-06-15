@@ -19,8 +19,8 @@ publishDate: '2023-06-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: **IEEE Transactions in Geosciences and Remote Sensing**
-publication_short:  **TGRS**
+publication: '**IEEE Transactions in Geosciences and Remote Sensing**'
+publication_short:  '**TGRS**'
 
 # Summary. An optional shortened abstract.
 summary: 

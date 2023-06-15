@@ -20,8 +20,8 @@ publishDate: '2022-28-09T00:00:00Z'
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: In **EGU General Assembly 2023**
-publication_short: In **EGU2023**
+publication: '**EGU General Assembly 2023**'
+publication_short: '**EGU2023**'
 
 # Summary. An optional shortened abstract.
 summary: 
