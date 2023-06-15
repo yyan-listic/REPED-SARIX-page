@@ -32,8 +32,8 @@ featured: true
 
 links:
   - name: Custom Link
-#    url: https://ieeexplore.ieee.org/document/9884916
-#url_pdf: https://hal.archives-ouvertes.fr/hal-03761316/document
+#    url: 
+#url_pdf: 
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
