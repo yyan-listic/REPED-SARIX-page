@@ -23,18 +23,6 @@ publication_types: ['0']
 publication: In **EGU General Assembly 2023**
 publication_short: In **EGU2023**
 
-abstract: Accurate estimation of ice thickness is essential for understanding and predicting the behaviors of glaciers, since the ice thickness provides valuable information about the glacier state and helps anticipate the evolution of whole glaciers systems. This latter knowledge is particularly important given the fact that glaciers act as natural reservoirs in the global water cycle. They are also indicators of the current and past state of global and local climate, as the properties and dynamics of glaciers reveal insights into the environmental conditions they have experienced.
-
-Current methods for estimating ice thickness face issues : field measurements such as the Ground Penetrating Range method can be costly and may not provide dense, continuous, renewable coverage. On the other hand, methods based on physical modeling can be computationally intensive and are dependent on assumptions about model parameters that may be unreliable in a poorly understood context. Results may thus be sensitive to the choice of prior information and prone to bias when working with limited or noisy data.
-
-Deep learning methods provide a promising solution for ice thickness prediction. One key advantage is their ability to handle large, multi-dimensional datasets and to learn directly from raw data without prior knowledge. Additionally, deep learning models are able to exploit non-linear relationships between datasets. Using such models also allows simultaneous training of other tasks, such as terrain classification to identify the presence of glaciers when it is not provided or outdated. In this study, we propose the use of such an approach relying on convolutional models based on VGGNet, ResNet and U-Net.
-
-Our goal is to obtain an accurate estimation of the glacier thickness distribution. We propose the use of neural networks in order to 1) be free from statistical/physical assumptions, 2) leverage deep relationships between observed data and physical parameters to be estimated, 3) overcome inaccuracies in collected data, and 4) accurately represent complex patterns such as non-linear thickness variations within the glacier. Additionally, it is important that these models should not be prone to common issues of deep learning such as overfitting and lack of explainability.
-
-We conduct our study on Alpine glaciers in Switzerland. The input data for our neural network models includes: 1) average ice velocity fields calculated from correlation of Sentinel-2 images with a resolution of 50 metres, and 2) altitudes and slopes derived from the Swiss digital elevation model with a resolution of 10 metres. To verify the accuracy of the predicted ice thickness values, we use ground truth data obtained from GPR surveys conducted in profile form, from 2012 to 2021.
-
-In addition to estimating the ice thickness, we also perform direct classification of glaciers vs. non-glacier areas. Results demonstrate the feasibility of quickly training a neural network model with limited training data and producing stable, high-quality ice thickness estimates for different glaciers in the study region.
-
 # Summary. An optional shortened abstract.
 summary: 
 
