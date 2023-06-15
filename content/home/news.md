@@ -20,4 +20,4 @@ design:
   view: 3
   columns: "1"
 ---
-Kick-off meeting on 21 June, 2022 at Annecy.
+Annual meeting on 22 June, 2023 at Annecy.
