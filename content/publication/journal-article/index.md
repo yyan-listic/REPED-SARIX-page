@@ -6,8 +6,8 @@ authors:
   - 'Frédéric Brigui'
   - admin
   - 'Guillaume Ginolhac'
-date: '2023-09-01T00:00:00Z'
-doi: ''
+date: '2023-06-26T00:00:00Z'
+doi: '10.1109/TGRS.2023.3289338'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-06-01T00:00:00Z'
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'https://ieeexplore.ieee.org/document/10163063'
 url_code: ''
 url_dataset: ''
 url_poster: ''
