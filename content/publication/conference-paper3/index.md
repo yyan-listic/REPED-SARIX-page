@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Deep learning multimodal methods for geophysical inversion: application to glacier ice thickness estimation'
 authors:
   - Lorenzo Lopez-Uroz
   - Alexandre Benoit
