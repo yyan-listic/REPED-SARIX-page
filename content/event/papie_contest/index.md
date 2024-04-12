@@ -1,19 +1,19 @@
 ---
-title: Ph.D defense
+title: IGARSS 2024 Student Paper Competition
 
-event: Ph.D defense of Phan Viet Hoa Vu
+event: IGARSS 2024 Student Paper Competition
 event_url:
 
-location: Paris, CNAM
+location: Athens, Greece
 address:
   street: 292 rue saint martin
-  city: Paris
+  city: Athens
   region: 
   postcode: '75003'
-  country: France
+  country: Greece
 
 summary: Ph.D defense of Phan Viet Hoa Vu
-abstract: 'This thesis delves into the realm of Multi-Temporal Interferometric Synthetic Aperture Radar (MT-InSAR) techniques, particularly Phase Linking algorithm, for precise displacement measurements while mitigating signal decorrelation. Following the unprecedented volume of free-access SAR data, the demand for an algorithm with low computational load has raised, enabling the analysis of a longer time series over larger coverage. Moreover, recent missions offer high resolution data source and necessitate algorithms that can ensure the estimation accuracy while retaining the spatial resolution. Hence, in response to these challenges, our objectives are twofolds: i) to formulate and develop a mathematical framework where Phase Linking is reformulated into a covariance fitting optimization problem; ii) to introduce a robust estimation framework based on Phase Linking. The performances of the proposed algorithms are analysed through simulations and a real data case study encompassing the Mexico City.'
+abstract: 'This paper introduces a novel approach for sequential estimation of the interferometric phase in the context of  long SAR image time series. When newly acquired data arrive, the data set expands and can be partitioned into two distinct blocks. One represents the previous SAR images and the other represents the newly acquired data. The proposed approach (S-MLE-PL) exploits sequential maximum likelihood estimation of the covariance matrix of the whole data set, taking the existing data set as prior information. This approach facilitates the continuous interferometric phase estimation by incorporating the new data into  the previous context. In addition, it presents the advantage of reduced computation time compared to the traditional approaches, making it a more efficient solution for operational displacement estimation.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
