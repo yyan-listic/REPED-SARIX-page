@@ -6,7 +6,7 @@ authors:
   - admin
   - 'Mohammed Nabil El Korso'
 date: '2024-12-01T00:00:00Z'
-doi: ''
+doi: '10.1109/LSP.2025.3537334'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-12-01T00:00:00Z'
@@ -30,7 +30,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+#   url: "https://ieeexplore.ieee.org/document/10858717?source=authoralert"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
