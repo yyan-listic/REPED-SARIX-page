@@ -13,10 +13,15 @@ text-align: justify}
 
 <strong> Recursive and robust displacement estimation from SAR image time series </strong>
 
-The main objective of this WP is to develop a recursive and robust multi-temporal InSAR approach for displacement estimation from SAR image time series. We start from the Phase Linking approach. The displacement rate is estimated directly from a time series of N coregistered SAR images based on a maximum likelihood estimator.
+The main objective of this WP is to develop recursive and robust multi-temporal InSAR approaches for displacement estimation from SAR image time series. The interferometric phase estimation is formulated as a covariance matrix estimation problem. This work package is based on two Ph.D theses. In the former, 
 
-  - Task I: robust multi-temporal InSAR
+  - Maximum-Likelihood-Estimator (MLE) Phase Linking
+  
+  We start from the state-of-the-art Phase Linking approach. The N-1 phase difference is estimated directly from a time series of N coregistered SAR images based on a maximum likelihood estimator.
 
-  - Task II: recursive multi-temporal InSAR 
+  - Covariance fitting
+  
+  - Sequential MLE Phase Linking
+  
+  - Sequential covariance fitting
 
-  - Task III: Missing data imputation
