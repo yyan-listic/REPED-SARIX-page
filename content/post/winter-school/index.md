@@ -1,5 +1,5 @@
 ---
-title: dissemination of WP2 results
+title: Dissemination of WP2 results
 date: 2025-11
 ---
 
