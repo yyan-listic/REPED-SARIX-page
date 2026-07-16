@@ -17,7 +17,7 @@ text-align: justify}
 
   - For WP2 : Alpine glaciers and volcanoes in the Kenya rift area
   
-  Dataset: 
+  Datasets: 
   
    R. Millan et al., “Ice velocity and thickness of the world’s glaciers,” Nature Geoscience, vol. 15, no. 2, pp. 124–129, 2022.
  
