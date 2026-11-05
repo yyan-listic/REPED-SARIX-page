@@ -12,9 +12,6 @@ address:
   postcode: '74944'
   country: France
 
-November 19, C206-207, Polytech Annecy Chambéry
-
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-11-19T09:00:00Z'
