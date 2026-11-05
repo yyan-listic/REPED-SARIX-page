@@ -14,7 +14,7 @@ address:
 
 November 19, C206-207, Polytech Annecy Chambéry
 
-Online participation link: https://visio.numerique.gouv.fr/apf-pfls-edy
+#Online participation link: https://visio.numerique.gouv.fr/apf-pfls-edy
  
 9:30 - 10:00 : Welcome
 
