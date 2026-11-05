@@ -14,7 +14,7 @@ address:
 
 November 19, C206-207, Polytech Annecy Chambéry
 
- Online participation link: https://visio.numerique.gouv.fr/apf-pfls-edy
+Online participation link: https://visio.numerique.gouv.fr/apf-pfls-edy
  
 9:30 - 10:00 : Welcome
 
@@ -37,12 +37,12 @@ Phase Linking Framework
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-12-09T14:00:00Z'
-date_end: '2025-12-09T18:00:00Z'
+date: '2026-11-19T09:00:00Z'
+date_end: '2026-11-19T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-11-01T00:00:00Z'
 
 authors: []
 tags: []
