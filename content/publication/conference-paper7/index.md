@@ -1,12 +1,10 @@
 ---
-title: 'Nouvel Algorithme d’estimation de phases pour InSAR multi-temporelle basé sur le maximum de vraisemblanc'
+title: 'Using neural networks for volcanic inverse modeling with multi-scale InSAR data'
 authors:
-  - Phan Viet Hoa Vu
-  - Frédérique Brigui
-  - Arnaud Breloy
+  - Grégoire Vest
   - admin
-  - Guillaume Ginolhac
-date: '2022-09-01T00:00:00Z'
+  - Fabien Albino
+date: '2026-09-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,8 +17,8 @@ publishDate: '2023-06-14T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '** XXVIIIème Colloque Francophone de Traitement du Signal et des Images**'
-publication_short:  '**GRETSI2022**'
+publication: '** Workshop on Machine Learning for Earth Observation ECML/PKDD**'
+publication_short:  '**ECML/PKDD**'
 
 # Summary. An optional shortened abstract.
 summary: 
