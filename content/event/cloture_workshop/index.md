@@ -13,9 +13,9 @@ address:
   country: France
 
 
-Online participation link: 'https://visio.numerique.gouv.fr/apf-pfls-edy'
+#Online participation link: 'https://visio.numerique.gouv.fr/apf-pfls-edy'
 
-Program:
+abstract:
 
 '9:30 - 10:00 : Welcome
 
