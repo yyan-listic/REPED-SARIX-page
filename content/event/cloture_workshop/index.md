@@ -15,25 +15,6 @@ address:
 
 #Online participation link: 'https://visio.numerique.gouv.fr/apf-pfls-edy'
 
-abstract:
-
-'9:30 - 10:00 : Welcome
-
-Session - Inverse modeling with machine learning
-10:00 – 10:30 : Inverse Modeling in Geosciences Using Remote Sensing and Machine Learning
-10:30 – 11:00 : Using neural networks for volcanic inverse modeling with multi-scale InSAR data
-11:00 – 11:30 : Automated Mapping of Volcanic Fissures from SAR Interferograms
-11:30 – 12 : 00 : Discussions
-
-12 : 00 – 14:00 : Lunch
-
-Session - Multi-temporal InSAR for Earth displacement estimation
-14:00 – 15:00 : Sequential learning of SAR image time series for Earth deformation monitoring
-15:00 – 15:30 : Spatial Regularization with Plug-and-Play ADMM applied to an Interferometric
-Phase Linking Framework
-15:30 – 16:00 : InSAR Image Reconstruction Through Latent Variables
-16:00 – 16:30 : Discussions'
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-11-19T09:00:00Z'
