@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Phan Viet Hoa Vu**]()'
+  caption: 'Image credit: [**Dana El Hajjar**]()'
   focal_point: Right
 
 url_code: ''
