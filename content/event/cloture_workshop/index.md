@@ -8,7 +8,7 @@ location: Annecy
 address:
   street: 5 chemin de bellevue
   city: Annecy-le-Vieux
-  region: 
+  region: Auvergne Rhône Alpes
   postcode: '74944'
   country: France
 
