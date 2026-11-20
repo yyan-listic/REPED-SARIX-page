@@ -1,57 +1,30 @@
----
-title: REPED-SARIX Scientific workshop
+# REPED-SARIX Scientific Workshop
+**Recursive Estimation and Prediction of Earth Deformation from SAR Image Time Series**
 
-event: workshop
-event_url:
-
-location: Annecy
-address:
-  street: 5 chemin de bellevue
-  city: Annecy-le-Vieux
-  region: Auvergne Rhône Alpes
-  postcode: '74944'
-  country: France
-
-
-#Online participation link: 'https://visio.numerique.gouv.fr/apf-pfls-edy'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-11-19T09:00:00Z'
-date_end: '2026-11-19T18:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2026-11-01T00:00:00Z'
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Yajing YAN**]()'
-  focal_point: Right
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-project:
+* **Date :** November 19, 2026
+* **Location :** Campus Annecy-le-Vieux — Room A126, 5 chemin de Bellevue, 74944 Annecy-le-Vieux
+* **Online participation :** [https://visio.numerique.gouv.fr/apf-pfls-edy](https://visio.numerique.gouv.fr/apf-pfls-edy)
 
 ---
+
+## Program
+
+* **9:30 – 10:00 :** Welcome
+
+### Session — Inverse modeling with machine learning
+
+* **10:00 – 10:30 :** *Inverse Modeling in Geosciences Using Remote Sensing and Machine Learning*, Yajing Yan (LISTIC)
+* **10:30 – 11:00 :** *Using neural networks for volcanic inverse modeling with multi-scale InSAR data*, Grégoire Vest (LISTIC/ISTerre)
+* **11:00 – 11:30 :** *Crustal fracture classification and parameter estimation from InSAR displacement fields with interpretable descriptors*, Louise Lizé (LISTIC/LMV)
+* **11:30 – 12:00 :** *Automated Mapping of Volcanic Fissures from SAR Interferograms*, Christophe Lin-Kwong-Chon (LISTIC)
+
+* **12:00 – 14:00 :** Lunch
+
+### Session — Multi-temporal InSAR for Earth displacement estimation
+
+* **14:00 – 15:00 :** *Sequential learning of SAR image time series for Earth deformation monitoring*, Dana El Hajjar (L2S)
+* **15:00 – 15:30 :** *Spatial Regularization with Plug-and-Play ADMM applied to an Interferometric Phase Linking Framework*, Elena Grosso (CNAM/ONERA/LISTIC)
+* **15:30 – 16:00 :** *InSAR Image Reconstruction Through Latent Variables*, Nabil El Korso (L2S)
+* **16:00 – 16:30 :** Discussions
+
 
